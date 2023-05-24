@@ -2,7 +2,7 @@ baseURL = 'https://ridkuo_net'
 languageCode = 'zh-TW'
 title = 'Rid Kuo Site'
 theme = 'hugo-theme-diary'
-
+googleAnalytics = "G-X7ST817DVM"
 [[menu.main]]
 url = "/categories"
 name = "Categories"
