@@ -15,15 +15,19 @@ MockServer 是Postman提供的一項功能
 可以自訂這個模擬站台的API的Request&Response的內容
 
 # 怎麼使用?
-## 首先到Postman找到MockServer標籤，上面有個+鈕，建立mock server
+首先到Postman找到MockServer標籤，上面有個+鈕，建立mock server
 ![step1](images/step1.png)
-## 可以決定要從原有的集合建立mockserver，或是現在寫一份自訂的Reqeust&Response
+
+可以決定要從原有的集合建立mockserver，或是現在寫一份自訂的Reqeust&Response
 ![step2](images/step2.png)
-## 下一步，填上MockServer名稱
+
+下一步，填上MockServer名稱
 ![step3](images/step3.png)
-## 下一步，Postman就建立完成MockServer了，連結可以直接使用
+
+下一步，Postman就建立完成MockServer了，連結可以直接使用
 ![step4](images/step4.png)
-## 馬上來測試剛剛建立的API，可以發現回傳如我們所設定的內容是一樣的
+
+馬上來測試剛剛建立的API，可以發現回傳如我們所設定的內容是一樣的
 ![step5](images/step5.png)
 
 # 日常實務
