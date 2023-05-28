@@ -4,8 +4,8 @@ date: 2023-05-22T02:41:03+08:00
 draft: false
 tags:
 - Golang
-- C#
-- 用C#角度學GO
+- CSharp
+- 用CSharp角度學GO
 categories:
 - 學習筆記
 ---
