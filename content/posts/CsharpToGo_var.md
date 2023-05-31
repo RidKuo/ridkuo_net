@@ -1,7 +1,7 @@
 ---
 title: "用C#角度學GO 變數"
 date: 2023-05-29T00:00:03+08:00
-draft: false
+draft: true
 tags:
 - Golang
 - CSharp
